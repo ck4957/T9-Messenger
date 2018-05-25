@@ -1,0 +1,14 @@
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\bin\Debug\CSharp_Project2.exe.config
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\App.g.cs
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\CSharp_Project2_MarkupCompile.cache
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\bin\Debug\CSharp_Project2.exe
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\bin\Debug\CSharp_Project2.pdb
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\MainWindow.g.cs
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\CSharp_Project2_MarkupCompile.lref
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\MainWindow.baml
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\CSharp_Project2.g.resources
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\CSharp_Project2.Properties.Resources.resources
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\CSharp_Project2.csproj.GenerateResource.Cache
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\CSharp_Project2.exe
+c:\users\chirag\documents\visual studio 2015\Projects\CSharp_Project2\CSharp_Project2\obj\Debug\CSharp_Project2.pdb
