@@ -1,7 +1,9 @@
 # T9 Messenger
 
-! [T9](T9.png)
-The goal of the project is to get familiarized with the WPF framework, using the MVVM design pattern, event drivenprogramming, and built in data structures for .NET
+![T9](https://github.com/ck4957/T9-Messenger/blob/master/T9.png)
+
+The goal of the project is to get familiarized with the WPF framework, using the MVVM design pattern, event driven
+programming, and built in data structures for .NET
 
 Messenger has two modes:
 1. Predictive
